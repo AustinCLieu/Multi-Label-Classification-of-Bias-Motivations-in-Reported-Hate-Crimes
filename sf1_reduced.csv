@@ -1,0 +1,1805 @@
+record_id,suspects_race_as_a_group,most_serious_location,most_serious_bias,most_serious_bias_type
+220076956,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+220197239,Black or African American,Highway/Road/Alley/Street,Anti-Female,Gender
+220344189,Unknown,Community Center,Anti-Jewish,Religion
+220578811,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+220749125,White,Bar/Night Club,Anti-Black or African American,Race/Ethnicity/Ancestry
+230071639,Group of Multiple Ethnicities,Park/Playground,Anti-Asian,Race/Ethnicity/Ancestry
+230133405,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+230213847,Unknown,Park/Playground,Anti-Jewish,Religion
+230426028,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+230531473,White,Grocery/Supermarket,Anti-Arab,Race/Ethnicity/Ancestry
+230607375,Unknown,Dock/Wharf/Freight/Modal Terminal,Anti-Jewish,Religion
+230738356-2,Unknown,Bank/Savings and Loan,Anti-Jewish,Religion
+230740969,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+230805723,White,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+240019312,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240155847,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240242400,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+240310687,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+240441903,White,Park/Playground,Anti-Black or African American,Race/Ethnicity/Ancestry
+240544416,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+240630805,Unknown,Restaurant,Anti-Jewish,Religion
+240759966,Unknown,Community Center,Anti-Jewish,Religion
+250009698,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+250249797,White,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+250322967,Unknown,Restaurant,Anti-Jewish,Religion
+250456726,White,Other/Unknown,Anti-Black or African American,Race/Ethnicity/Ancestry
+250488519,Black or African American,Other/Unknown,Anti-White,Race/Ethnicity/Ancestry
+250630566,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+CA00-0000011531,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000011535,White,Hotel/Motel/etc.,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000011663,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011755,Unknown,Commercial/Office Building,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000011760,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011987,Unknown,Air/Bus/Train Terminal,Anti-Jewish,Religion
+CA00-0000012171,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012310,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000012387,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012458,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012513,Hispanic,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000012654,White,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012662,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012880,Unknown,Field/Woods/Park,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012884,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012892,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012934,Black or African American,Hotel/Motel/etc.,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012951,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012981,Unknown,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000013003,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000013189,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013205,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013213,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000013254,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013287,Black or African American,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000013291,Black or African American,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013387,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013478,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013482,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000013496,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013690,White,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000013729,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000013874,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000013889,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014216,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000014229,White,Air/Bus/Train Terminal,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014233,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000014619,White,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000014631,White,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000014640,Unknown,Drug Store/Dr Office/Hospital,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014661,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014879,Unknown,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000015701,Unknown,Church/Synagogue/Temple,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000015713,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000015793,White,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000015800,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016122,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016133,Unknown,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016143,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016156,Unknown,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000016163,White,Department/Discount Store,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016172,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000016191,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016195,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016202,Black or African American,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000016234,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016238,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016299,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016308,Unknown,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA00-0000016365,Unknown,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA00-0000016440,Unknown,Other/Unknown,Anti-Jewish,Religion
+CA00-0000016644,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016653,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016674,Unknown,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000016820,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016936,White,Bar/Night Club,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016947,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017195,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000017206,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000017274,Unknown,School/college,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000017460,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017467,Black or African American,Hotel/Motel/etc.,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017474,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017482,Unknown,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000017634,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000017690,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000017824,Black or African American,Restaurant,Anti-Lesbian,Sexual Orientation
+CA00-0000017830,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018068,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000018093,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018195,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018201,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000018402,Unknown,School/college,Anti-Jewish,Religion
+CA00-0000018418,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000018733,Unknown,Convenience Store,Anti-Gay (Male),Sexual Orientation
+CA00-0000018749,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018755,Black or African American,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000018885,Unknown,Other/Unknown,Anti-Jewish,Religion
+CA00-0000019095,Unknown,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000019107,Unknown,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019199,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000019479,White,Commercial/Office Building,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000019486,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000019566,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000019683,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000019691,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000020297,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020389,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020407,Unknown,Grocery/Supermarket,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000020520,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000020615,Unknown,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000021049,Hispanic,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000021142,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021164,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000021168,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021175,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021322,Unknown,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000021594,White,Government/Public Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000021692,East Indian/Asian Indian,Bar/Night Club,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000022095,Unknown,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000022127,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022262,Black or African American,School/college,Anti-Transgender,Gender Nonconforming
+CA00-0000022265,White,Government/Public Building,Anti-Jewish,Religion
+CA00-0000022429,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000022784,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000023325,White,Hotel/Motel/etc.,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000023817,Unknown,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000023822,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000023896,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000024024,Black or African American,School/college,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024118,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024221,White,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024253,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024367,Unknown,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000024475,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024493,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024636,White,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA00-0000024660,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000024955,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000025071,Black or African American,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000025112,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000025291,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000025341,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000025536,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000025842,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000025864,Unknown,Abandoned/Condemned Structure,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000026103,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000026449,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000026610,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000026659,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026732,Hispanic,School-College/University,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000027092,Black or African American,Park/Playground,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000027133,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000027236,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027469,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027722,White,School-College/University,Anti-Gay (Male),Sexual Orientation
+CA00-0000027814,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000028620,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000028815,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000028838,Unknown,Residence/Home/Driveway,Anti-Multiple Religions (Group),Religion
+CA00-0000028876,White,Park/Playground,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000028954,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000029063,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000029511,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000029765,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029796,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029856,Asian,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000030013,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000030429,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000030498,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000030659,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000031125,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031595,White,Other/Unknown,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031603,White,Other/Unknown,Anti-Islamic (Muslim),Religion
+CA00-0000031645,Black or African American,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000032072,Asian,Government/Public Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000032079,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000032082,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032089,Unknown,Construction Site,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032099,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Other Christian,Religion
+CA00-0000032106,Unknown,Residence/Home/Driveway,Anti-Islamic (Muslim),Religion
+CA00-0000032496,Black or African American,Air/Bus/Train Terminal,Anti-Transgender,Gender Nonconforming
+CA00-0000032503,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000032572,Asian,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033384,White,Convenience Store,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000033394,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033397,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033400,White,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000033407,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033414,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033425,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033429,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033443,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033446,Black or African American,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000033826,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033830,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033833,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033907,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000034100,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000034231,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034427,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034547,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000034798,White,Other/Unknown,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034805,Black or African American,Other/Unknown,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034808,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000035383,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000035404,Asian,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035502,Black or African American,Air/Bus/Train Terminal,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000035636,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035709,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000035859,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000035988,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036019,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036026,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036034,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036038,White,Convenience Store,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036048,Unknown,Bar/Night Club,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036203,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036208,Black or African American,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000036217,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036892,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001752,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001761,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001765,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA01-0000001774,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001778,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA01-0000001783,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001787,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA01-0000001796,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001808,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA01-0000001819,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001823,White,Bar/Night Club,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001830,Black or African American,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001834,White,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001841,Unknown,Commercial/Office Building,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA01-0000001845,White,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001853,Unknown,Bar/Night Club,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001857,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001866,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001870,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA01-0000001880,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001888,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001904,White,Parking Lot/Garage,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001908,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001912,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+220077277,Black or African American,Bar/Night Club,Anti-Asian,Race/Ethnicity/Ancestry
+220279661,Unknown,Community Center,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+220346577,Unknown,Community Center,Anti-Jewish,Religion
+220655340,White,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+220836910,Black or African American,Air/Bus/Train Terminal,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+230106656,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230139516,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+230259211,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+230383393,Unknown,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+230438528,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+230531962,Black or African American,Other/Unknown,Anti-Asian,Race/Ethnicity/Ancestry
+230667868,White,Parking Lot/Garage,Anti-Lesbian,Sexual Orientation
+230738356-4,Unknown,Air/Bus/Train Terminal,Anti-Jewish,Religion
+230756392,White,Restaurant,Anti-Jewish,Religion
+230824591,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240063698,White,Highway/Road/Alley/Street,Anti-Mental Disability,Disability
+240193110,Asian,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240282365,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+240323561,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+240469422,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+240559421,Black or African American,Highway/Road/Alley/Street,Anti-Physical Disability,Disability
+240669042,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250021222,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250051144,White,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250265486,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+250331093,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250457097,Black or African American,Other/Unknown,Anti-Islamic (Muslim),Religion
+250577162,White,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+250647862,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000011532,Hispanic,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000011660,Unknown,Residence/Home/Driveway,Anti-Islamic (Muslim),Religion
+CA00-0000011747,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011756,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000011984,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011988,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012177,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012311,Unknown,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012390,White,Bar/Night Club,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012475,Unknown,Government/Public Building,Anti-Jewish,Religion
+CA00-0000012483,White,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012515,Black or African American,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012657,White,Bar/Night Club,Anti-Lesbian,Sexual Orientation
+CA00-0000012669,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000012673,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000012881,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012937,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012952,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013160,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000013190,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000013288,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013292,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013475,Black or African American,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000013625,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000013725,Unknown,School/college,Anti-Jewish,Religion
+CA00-0000013735,Unknown,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA00-0000013875,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013882,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000013886,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014055,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014208,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000014226,White,Parking Lot/Garage,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014230,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000014616,Hispanic,Restaurant,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014632,Black or African American,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000014641,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014649,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000014662,Unknown,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000015695,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000015702,Unknown,Bar/Night Club,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000015714,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000015794,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000015850,Hispanic,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000016123,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016135,Unknown,Church/Synagogue/Temple,Anti-Gay (Male),Sexual Orientation
+CA00-0000016144,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016157,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016164,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016173,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016178,Hispanic,Department/Discount Store,Anti-Gay (Male),Sexual Orientation
+CA00-0000016183,Unknown,Commercial/Office Building,Anti-Lesbian,Sexual Orientation
+CA00-0000016192,Unknown,School/college,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016196,Black or African American,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000016203,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016235,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016248,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000016312,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016433,White,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000016442,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016648,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016657,Group of Multiple Races,School/college,Anti-Physical Disability,Disability
+CA00-0000016676,White,Convenience Store,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000016829,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016940,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016953,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017196,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000017207,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017275,Hispanic,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017464,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017470,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000017626,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000017632,White,Parking Lot/Garage,Anti-Jewish,Religion
+CA00-0000017687,White,Lake/Waterway/Beach,Anti-Gay (Male),Sexual Orientation
+CA00-0000017725,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017831,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000018060,Asian/Pacific Islander,Restaurant,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018069,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000018086,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018257,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000018400,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018419,White,Parking Lot/Garage,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000018736,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018752,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018756,White,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000018866,Black or African American,Liquor Store,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000018871,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000018886,White,Restaurant,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000018902,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000019096,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000019100,Black or African American,Parking Lot/Garage,Anti-Lesbian,Sexual Orientation
+CA00-0000019108,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019480,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000019487,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000019684,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000019692,Black or African American,Parking Lot/Garage,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000020298,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020302,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020390,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020408,Unknown,Grocery/Supermarket,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000020521,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020616,Black or African American,Commercial/Office Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000020747,Black or African American,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000021050,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000021143,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000021146,Group of Multiple Races,Hotel/Motel/etc.,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000021169,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021176,Hispanic,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000021332,Unknown,Grocery/Supermarket,Anti-Jewish,Religion
+CA00-0000021342,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000021700,Black or African American,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000022096,Hispanic,Field/Woods/Park,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022128,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022431,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000022699,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022791,Unknown,Hotel/Motel/etc.,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000023428,Black or African American,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000023818,Unknown,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000023893,Hispanic,Parking Lot/Garage,Anti-Lesbian,Sexual Orientation
+CA00-0000024115,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000024222,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024368,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024476,Hispanic,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000024641,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000024811,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000025100,Unknown,Church/Synagogue/Temple,Anti-Multiple Religions (Group),Religion
+CA00-0000025262,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025292,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025475,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025599,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000025691,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025843,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026026,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000026431,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026515,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026611,Hispanic,Government/Public Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000026708,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000027134,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000027241,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000027636,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000027747,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+CA00-0000027812,Unknown,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000028182,Hispanic,Restaurant,Anti-Lesbian,Sexual Orientation
+CA00-0000028440,White,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000028571,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000028816,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000028839,White,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000028969,Black or African American,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000029064,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000029514,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000029766,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000029859,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000030039,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000030465,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000030660,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000030932,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000031126,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000031596,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000031604,Black or African American,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000032065,White,Bar/Night Club,Anti-Lesbian,Sexual Orientation
+CA00-0000032073,Black or African American,Hotel/Motel/etc.,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000032083,Group of Multiple Races,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA00-0000032091,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000032100,Black or African American,Shopping Mall,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000032107,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032497,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000032504,Unknown,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032573,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000033385,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033395,Unknown,School-Elementary/Secondary,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033398,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000033401,Black or African American,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000033408,White,Service/Gas Station,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000033416,Black or African American,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033426,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033430,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000033444,Unknown,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000033447,Asian,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033827,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033831,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033834,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000033953,Black or African American,Air/Bus/Train Terminal,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000034101,White,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034235,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034545,Black or African American,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000034548,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000034799,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034979,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035384,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035492,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000035554,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035637,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035710,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035860,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035989,White,Park/Playground,Anti-Gay (Male),Sexual Orientation
+CA00-0000036020,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036027,White,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036031,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036044,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036205,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000036210,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000036218,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036369,Asian,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036447,White,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000036667,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001749,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA01-0000001762,White,Government/Public Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA01-0000001775,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001784,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001788,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001793,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001797,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001809,White,Air/Bus/Train Terminal,Anti-Islamic (Muslim),Religion
+CA01-0000001820,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA01-0000001824,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001831,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001835,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001842,Black or African American,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001846,Unknown,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001854,White,School/college,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001858,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA01-0000001863,Unknown,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA01-0000001867,Black or African American,Air/Bus/Train Terminal,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001877,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001881,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001885,Unknown,Government/Public Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001909,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220057815,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+220078413,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+220315754,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220378934,Unknown,Park/Playground,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+220683705,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+220860505,Unknown,Community Center,Anti-Other Christian,Religion
+230118366,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230145234,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+230278750,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+230541494,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+230714340,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+230738356-5,Unknown,Bank/Savings and Loan,Anti-Jewish,Religion
+230763290,Unknown,Restaurant,Anti-Jewish,Religion
+230828628,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+240080642,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240193267,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+240294592,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+240328602,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240492570,Unknown,Community Center,Anti-Jewish,Religion
+240583981,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240735289,White,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+240782268,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+250150213,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+250245397,Unknown,Community Center,Anti-Transgender,Gender Nonconforming
+250352801,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+250391752,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+250458926,Black or African American,Other/Unknown,Anti-Asian,Race/Ethnicity/Ancestry
+250516013,Unknown,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+250649250,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000011527,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011656,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000011748,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011752,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011980,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000012173,Unknown,Hotel/Motel/etc.,Anti-Islamic (Muslim),Religion
+CA00-0000012312,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012317,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000012471,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012664,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012886,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012890,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012894,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012989,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013001,Hispanic,Convenience Store,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013005,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013202,Black or African American,Commercial/Office Building,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000013207,Unknown,Department/Discount Store,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013211,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013217,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000013232,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013280,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013284,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013293,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013299,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000013480,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013494,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013618,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013693,Hispanic,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000013731,White,Drug Store/Dr Office/Hospital,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013878,Black or African American,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000014056,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000014193,Black or African American,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000014219,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000014607,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014621,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000014629,Black or African American,Other/Unknown,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014636,Unknown,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000014653,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000014659,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000014877,Black or African American,Air/Bus/Train Terminal,Anti-Transgender,Gender Nonconforming
+CA00-0000015699,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000015711,White,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000015723,Unknown,Specialty Store (TV/Fur/etc.),Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000015798,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016120,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016128,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016140,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016149,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016154,Unknown,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000016161,White,Air/Bus/Train Terminal,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016168,White,Field/Woods/Park,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016189,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000016200,Unknown,Specialty Store (TV/Fur/etc.),Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000016207,Unknown,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016251,Unknown,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016301,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016321,Group of Multiple Races,Restaurant,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000016435,Unknown,Commercial/Office Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000016476,White,Restaurant,Anti-Jewish,Religion
+CA00-0000016649,Unknown,School/college,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016658,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016677,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016832,Unknown,Church/Synagogue/Temple,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000016941,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016954,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000017193,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017201,Unknown,Field/Woods/Park,Anti-Jewish,Religion
+CA00-0000017204,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017272,White,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000017472,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017477,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000017659,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017691,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000017826,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000018073,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018094,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000018197,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018202,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000018391,Unknown,Specialty Store (TV/Fur/etc.),Anti-Jewish,Religion
+CA00-0000018410,White,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000018416,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000018747,Black or African American,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000018893,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000019093,East Indian/Asian Indian,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000019104,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019196,Black or African American,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000019466,White,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000019470,Unknown,School/college,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000019484,White,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000019568,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019689,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019787,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000020387,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000020405,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000020412,Unknown,Commercial/Office Building,Anti-Female,Gender
+CA00-0000020562,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021047,Unknown,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000021139,Hispanic,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000021165,Unknown,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000021173,Unknown,Residence/Home/Driveway,Anti-Other Religion,Religion
+CA00-0000021284,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021690,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000021914,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022125,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000022260,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022263,White,Field/Woods/Park,Anti-Jewish,Religion
+CA00-0000022418,Unknown,School/college,Anti-Jewish,Religion
+CA00-0000022432,Black or African American,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000022865,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000023113,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000023429,Black or African American,Liquor Store,Anti-Islamic (Muslim),Religion
+CA00-0000023765,Asian/Pacific Islander,Field/Woods/Park,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000023819,White,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000023827,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000023946,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000024120,Black or African American,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000024255,White,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000024364,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000024411,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024449,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000024506,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024711,Black or African American,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000025060,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025175,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000025407,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025600,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025909,East Indian/Asian Indian,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000026152,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026291,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026743,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000027016,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000027093,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000027200,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027381,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000027657,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027847,White,Air/Bus/Train Terminal,Anti-Transgender,Gender Nonconforming
+CA00-0000028071,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000028347,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000028543,White,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000028657,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000028882,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000029061,White,Community Center,Anti-Jewish,Religion
+CA00-0000029508,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000029794,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029798,Black or African American,Highway/Road/Alley/Street,Anti-Female,Gender
+CA00-0000030006,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000030427,Black or African American,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000030469,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000030499,Unknown,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000031123,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031396,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000031600,Asian,Other/Unknown,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000031643,White,Other/Unknown,Anti-Islamic (Muslim),Religion
+CA00-0000032069,Unknown,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000032077,White,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032080,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032087,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032097,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+CA00-0000032104,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032491,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032494,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032501,White,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000032508,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032636,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033389,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033392,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033405,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000033412,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033423,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033437,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000033440,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033838,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000034228,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000034428,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034552,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034803,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000034806,Unknown,Residence/Home/Driveway,Anti-Islamic (Muslim),Religion
+CA00-0000035164,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000035399,Unknown,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035493,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000035634,Black or African American,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035641,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035747,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000035986,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036017,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036024,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036036,White,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036040,White,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036063,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036121,White,Drug Store/Dr Office/Hospital,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036219,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001750,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001754,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA01-0000001758,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001767,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA01-0000001771,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001776,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001780,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001789,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA01-0000001798,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA01-0000001802,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001806,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA01-0000001813,Unknown,Restaurant,Anti-Islamic (Muslim),Religion
+CA01-0000001817,Asian/Pacific Islander,Service/Gas Station,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001828,Unknown,Hotel/Motel/etc.,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+220077039,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220270227,White,School-Elementary/Secondary,Anti-Gender Non-Conforming,Gender Nonconforming
+220345422,Unknown,Church/Synagogue/Temple,Anti-Other Christian,Religion
+220612942,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+220797920,White,Church/Synagogue/Temple,Anti-Other Christian,Religion
+230105830,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230133411,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+230223573,Unknown,Park/Playground,Anti-Jewish,Religion
+230381905,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+230620662,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230738356-3,Unknown,Bank/Savings and Loan,Anti-Jewish,Religion
+230755021,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+230818550,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+240029305,Unknown,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+240168715,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240262276,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+240320454,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+240455302,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240550021,White,Liquor Store,Anti-Black or African American,Race/Ethnicity/Ancestry
+240707266,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+250122121,Asian,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+250218128,Unknown,Government/Public Building,Anti-Jewish,Religion
+250386173,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250515996,Unknown,Shelter-Mission/Homeless,Anti-Black or African American,Race/Ethnicity/Ancestry
+250539190,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+250718742,White,Air/Bus/Train Terminal,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011655,White,Bar/Night Club,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011659,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011751,Unknown,Liquor Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000011794,Black or African American,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000011983,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000012172,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012176,Asian/Pacific Islander,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012316,Group of Multiple Races,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000012469,Hispanic,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000012474,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000012479,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012663,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012668,Unknown,Grocery/Supermarket,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000012672,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000012885,White,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000012889,Group of Multiple Races,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012893,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012988,White,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000012998,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013004,East Indian,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000013026,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000013206,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013210,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013214,White,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013229,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000013279,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013283,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013296,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000013479,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013493,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013617,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013624,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013692,Unknown,School/college,Anti-Lesbian,Sexual Orientation
+CA00-0000013696,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013730,Black or African American,Government/Public Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013734,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013881,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013885,Black or African American,Restaurant,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014192,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000014205,Black or African American,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000014218,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014225,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014606,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014615,Asian/Pacific Islander,Field/Woods/Park,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014620,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014628,Hispanic,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014635,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014651,Unknown,School/college,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000014657,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014875,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000015698,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000015705,Black or African American,Air/Bus/Train Terminal,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000015710,White,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000015720,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000015797,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016119,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016126,Hispanic,Drug Store/Dr Office/Hospital,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016139,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016147,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016151,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016153,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016160,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016167,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016177,Unknown,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016188,Group of Multiple Races,Residence/Home/Driveway,Anti-Bisexual,Sexual Orientation
+CA00-0000016199,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000016206,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016239,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016300,White,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000016309,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016432,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016441,Unknown,Convenience Store,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016647,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016654,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000016675,Unknown,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000016821,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016939,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016950,Unknown,Parking Lot/Garage,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000017192,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000017200,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000017203,Unknown,Commercial/Office Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000017271,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017476,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017629,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017681,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000017825,Black or African American,Bar/Night Club,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000018072,Black or African American,Government/Public Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018088,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000018096,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018199,Unknown,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000018390,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018403,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000018413,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000018735,Unknown,Other/Unknown,Anti-Jewish,Religion
+CA00-0000018742,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000018865,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018869,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000018900,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000019091,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000019099,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000019103,Unknown,Church/Synagogue/Temple,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019111,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000019465,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019469,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019483,White,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000019567,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000019687,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000019707,Black or African American,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000020301,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000020386,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000020404,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020411,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020528,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021044,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000021054,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000021172,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000021283,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021335,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021632,Unknown,Drug Store/Dr Office/Hospital,Anti-Physical Disability,Disability
+CA00-0000021775,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000022099,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000022259,White,Hotel/Motel/etc.,Anti-Transgender,Gender Nonconforming
+CA00-0000022266,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022417,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000022430,Unknown,Government/Public Building,Anti-Jewish,Religion
+CA00-0000022435,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000023035,Unknown,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000023567,White,Hotel/Motel/etc.,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000023826,Black or African American,Other/Unknown,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000023892,Hispanic,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000023945,Unknown,Government/Public Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000024119,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024254,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024259,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024417,Unknown,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000024505,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024702,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000024756,Asian/Pacific Islander,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA00-0000024959,Unknown,Church/Synagogue/Temple,Anti-Multiple Religions (Group),Religion
+CA00-0000025163,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025261,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000025406,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000025435,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000025690,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000025904,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000026012,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000026104,Unknown,Parking Lot/Garage,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000026206,Unknown,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026400,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026742,Hispanic,Industrial Site,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000027015,Black or African American,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000027137,Unknown,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000027289,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000028034,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000028290,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000028542,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000029055,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000029480,White,Highway/Road/Alley/Street,Anti-Hindu,Religion
+CA00-0000029590,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029769,White,Church/Synagogue/Temple,Anti-Protestant,Religion
+CA00-0000029797,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000029979,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000030426,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000030468,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000030739,White,Service/Gas Station,Anti-Bisexual,Sexual Orientation
+CA00-0000031122,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031395,Black or African American,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000031598,Asian,Other/Unknown,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031636,White,Other/Unknown,Anti-Transgender,Gender Nonconforming
+CA00-0000032068,White,Park/Playground,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032076,White,Government/Public Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000032086,Unknown,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032096,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032103,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032490,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032493,Black or African American,Field/Woods/Park,Anti-Islamic (Muslim),Religion
+CA00-0000032500,Black or African American,Air/Bus/Train Terminal,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032507,White,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000032576,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000033388,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000033391,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033404,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033411,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033419,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033422,Black or African American,Government/Public Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000033433,White,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000033436,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033439,Unknown,Church/Synagogue/Temple,Anti-Gay (Male),Sexual Orientation
+CA00-0000033837,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000034104,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034544,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000034551,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000034802,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035163,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035398,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035577,Group of Multiple Races,Shopping Mall,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035640,Group of Multiple Races,Other/Unknown,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035746,White,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000035985,Unknown,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000036016,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036023,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036030,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036035,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036039,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036043,White,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036062,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000036111,White,Parking Lot/Garage,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036209,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000036295,Black or African American,School-Elementary/Secondary,Anti-Gay (Male),Sexual Orientation
+CA00-0000036446,White,Department/Discount Store,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036450,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001753,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA01-0000001757,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001766,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001770,White,Church/Synagogue/Temple,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001779,White,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA01-0000001792,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001801,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001805,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA01-0000001812,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001816,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001827,Unknown,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001838,White,Commercial/Office Building,Anti-Jewish,Religion
+CA01-0000001849,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA01-0000001862,Unknown,School/college,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001871,White,Hotel/Motel/etc.,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001876,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA01-0000001884,Unknown,School/college,Anti-Gay (Male),Sexual Orientation
+CA01-0000001889,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001893,Unknown,School/college,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA01-0000001897,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001900,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001905,White,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001913,White,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001839,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA01-0000001850,Unknown,Commercial/Office Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001859,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001872,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA01-0000001882,Black or African American,Field/Woods/Park,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001890,White,Construction Site,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001894,White,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA01-0000001901,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001914,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+220015368,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220154182,Unknown,Community Center,Anti-Jewish,Religion
+220317192,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+220429361,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+220692938,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220862266,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+230119922,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+230161161,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+230396277,Unknown,Bar/Night Club,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+230443709,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+230559572,White,Hotel/Motel/etc.,Anti-Asian,Race/Ethnicity/Ancestry
+230717322,Unknown,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+230738588,Unknown,Government/Public Building,Anti-Jewish,Religion
+230769301,Black or African American,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+230839324,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+240080965,Unknown,Restaurant,Anti-Jewish,Religion
+240197645,Asian,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+240296902,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+240391007,Black or African American,Grocery/Supermarket,Anti-Gay (Male),Sexual Orientation
+240499225,Unknown,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+240605488,White,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+240690489,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+250025917,Black or African American,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+250063785,Unknown,Other/Unknown,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250285092,White,Air/Bus/Train Terminal,Anti-Islamic (Muslim),Religion
+250393720,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+250529044,Unknown,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+250605280,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+CA00-0000011528,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011533,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000011661,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011753,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000011758,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011985,White,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000012159,Unknown,School/college,Anti-Jewish,Religion
+CA00-0000012178,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012319,Unknown,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000012448,Unknown,Field/Woods/Park,Anti-Jewish,Religion
+CA00-0000012476,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012507,White,Parking Lot/Garage,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012652,Black or African American,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000012660,Group of Multiple Races,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012670,Hispanic,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000012685,White,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012882,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012938,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012953,Unknown,Field/Woods/Park,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013187,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013285,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000013289,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000013300,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013476,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013619,Unknown,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000013626,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000013694,Unknown,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA00-0000013727,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013736,Black or African American,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013887,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000014203,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014209,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000014227,White,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000014231,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014608,Asian/Pacific Islander,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000014617,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014622,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000014633,Black or African American,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000014647,Hispanic,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000014690,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000015696,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000015703,White,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000015706,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000015715,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000015795,Black or African American,Bar/Night Club,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000015880,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016124,Unknown,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA00-0000016137,Group of Multiple Races,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000016145,Unknown,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000016158,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000016165,Asian/Pacific Islander,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000016174,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000016184,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016193,Unknown,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016197,White,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016204,White,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016236,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016263,White,Hotel/Motel/etc.,Anti-Jewish,Religion
+CA00-0000016302,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016323,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016437,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016485,Black or African American,Hotel/Motel/etc.,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000016650,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016659,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016679,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016835,Black or African American,Jail/Prison,Anti-Gay (Male),Sexual Orientation
+CA00-0000016942,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017149,White,Specialty Store (TV/Fur/etc.),Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000017198,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000017212,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017276,Group of Multiple Races,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017465,White,Bar/Night Club,Anti-Female,Gender
+CA00-0000017627,Unknown,Government/Public Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000017630,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000017682,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017823,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000017832,Black or African American,Bar/Night Club,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018089,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000018102,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000018200,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000018420,Unknown,Commercial/Office Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000018737,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000018753,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000018804,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018867,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000018878,Unknown,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000018904,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000019097,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000019101,Unknown,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000019109,White,Hotel/Motel/etc.,Anti-Gay (Male),Sexual Orientation
+CA00-0000019467,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000019481,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000019488,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019685,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000019705,American Indian or Alaska Native,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000020299,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000020379,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020402,Black or African American,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000020409,Hispanic,Hotel/Motel/etc.,Anti-Transgender,Gender Nonconforming
+CA00-0000020522,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000020745,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020748,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000021051,White,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000021144,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021147,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000021170,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000021177,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000021333,White,Bar/Night Club,Anti-Jewish,Religion
+CA00-0000021501,Black or African American,Bar/Night Club,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000021701,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000022097,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022129,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000022267,White,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022723,Unknown,Field/Woods/Park,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000023323,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000023815,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000023828,Unknown,Highway/Road/Alley/Street,Anti-Catholic,Religion
+CA00-0000023894,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000023947,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000024116,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024121,White,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000024223,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024365,Asian/Pacific Islander,School/college,Anti-Jewish,Religion
+CA00-0000024450,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000024477,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000024507,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000024642,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000024712,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024818,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000025061,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+CA00-0000025101,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000025197,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025263,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000025321,Unknown,Park/Playground,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000025408,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000025520,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000025720,Unknown,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000025844,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025910,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000026027,White,Restaurant,Anti-Transgender,Gender Nonconforming
+CA00-0000026301,Unknown,Government/Public Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000026432,Hispanic,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026518,Unknown,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026622,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026718,White,Park/Playground,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000027135,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027287,Unknown,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000027748,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027813,Unknown,School-College/University,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000028072,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000028263,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000028459,Unknown,Restaurant,Anti-Islamic (Muslim),Religion
+CA00-0000028974,Hispanic,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000029277,Unknown,Park/Playground,Anti-Gay (Male),Sexual Orientation
+CA00-0000029669,Black or African American,Hotel/Motel/etc.,Anti-Transgender,Gender Nonconforming
+CA00-0000029767,Unknown,Government/Public Building,Anti-Jewish,Religion
+CA00-0000029977,White,Department/Discount Store,Anti-Transgender,Gender Nonconforming
+CA00-0000030041,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000030466,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000030881,Asian,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000031120,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031135,White,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000031605,Unknown,School-College/University,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032066,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000032074,Black or African American,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032084,White,Community Center,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032093,Asian,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032101,Unknown,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000032108,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032498,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032505,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032574,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000033386,Group of Multiple Races,Park/Playground,Anti-Gay (Male),Sexual Orientation
+CA00-0000033402,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033409,Unknown,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000033417,Black or African American,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033420,Group of Multiple Races,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033427,White,Convenience Store,Anti-Gay (Male),Sexual Orientation
+CA00-0000033431,Black or African American,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000033434,Unknown,Residence/Home/Driveway,Anti-Islamic (Muslim),Religion
+CA00-0000033445,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033609,Black or African American,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033828,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033835,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000034099,White,Residence/Home/Driveway,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000034102,Black or African American,Liquor Store,Anti-Islamic (Muslim),Religion
+CA00-0000034237,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000034549,White,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000034800,White,Bar/Night Club,Anti-Citizenship Status,Race/Ethnicity/Ancestry
+CA00-0000035072,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000035386,Black or African American,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035575,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000035638,Unknown,Convenience Store,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035711,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035861,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000035990,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036021,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036028,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036032,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036041,White,Convenience Store,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036046,White,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000036122,White,Field/Woods/Park,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000036206,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000036215,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036444,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000036448,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036668,White,Community Center,Anti-Jewish,Religion
+CA01-0000001759,Asian/Pacific Islander,Specialty Store (TV/Fur/etc.),Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001763,Unknown,Parking Lot/Garage,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001772,Black or African American,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA01-0000001781,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001785,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001794,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001799,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001803,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA01-0000001810,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001814,Unknown,School/college,Anti-Islamic (Muslim),Religion
+CA01-0000001821,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001825,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001832,White,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001836,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA01-0000001843,Black or African American,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001847,Unknown,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001851,Unknown,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001855,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001864,Unknown,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001868,White,Service/Gas Station,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001873,White,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA01-0000001878,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001886,White,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+CA01-0000001895,Black or African American,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA01-0000001898,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001902,Group of Multiple Races,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001906,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001910,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+220180030,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+220338405,Black or African American,Highway/Road/Alley/Street,Anti-Male,Gender
+220553744,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220701802,Black or African American,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+230063959,Unknown,Park/Playground,Anti-Jewish,Religion
+230125383,White,Grocery/Supermarket,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+230196629,Unknown,Park/Playground,Anti-Jewish,Religion
+230364092,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+230412130,White,Bank/Savings and Loan,Anti-Black or African American,Race/Ethnicity/Ancestry
+230576065,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+230738356-1,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+230740925,White,Park/Playground,Anti-Transgender,Gender Nonconforming
+230776118,Unknown,Community Center,Anti-Jewish,Religion
+240000571,White,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+240122329,White,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+240220086,Black or African American,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+240304674,White,Residence/Home/Driveway,Anti-Jewish,Religion
+240419239,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240543656,Black or African American,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+240692015,White,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+250040830,Black or African American,Air/Bus/Train Terminal,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+250069539,Unknown,School-Elementary/Secondary,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+250172198,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+250377859,Black or African American,Park/Playground,Anti-Gay (Male),Sexual Orientation
+250427181,White,Park/Playground,Anti-Gay (Male),Sexual Orientation
+250530580,White,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+250612906,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+250687222,White,Parking Lot/Garage,Anti-Jewish,Religion
+CA00-0000011529,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011658,Black or African American,Service/Gas Station,Anti-Islamic (Muslim),Religion
+CA00-0000011750,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000011754,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000011982,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000011986,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000012175,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000012314,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000012321,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012473,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012477,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000012508,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012653,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012667,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012671,Unknown,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000012879,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000012888,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013007,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013188,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013209,Unknown,Field/Woods/Park,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013228,Group of Multiple Races,Church/Synagogue/Temple,Anti-Transgender,Gender Nonconforming
+CA00-0000013282,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013286,White,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000013295,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013325,White,Specialty Store (TV/Fur/etc.),Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013620,Unknown,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013695,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000013733,Black or African American,Government/Public Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000013880,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013884,White,Bar/Night Club,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014191,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014204,Hispanic,Specialty Store (TV/Fur/etc.),Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014224,White,Air/Bus/Train Terminal,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000014228,Unknown,Residence/Home/Driveway,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000014609,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014623,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014634,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000014648,Unknown,Residence/Home/Driveway,Anti-Physical Disability,Disability
+CA00-0000014650,East Indian/Asian Indian,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000014655,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000014869,Unknown,School/college,Anti-Catholic,Religion
+CA00-0000015697,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000015704,White,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000015707,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000015718,Black or African American,School/college,Anti-Transgender,Gender Nonconforming
+CA00-0000015796,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000016118,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016125,Hispanic,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000016138,White,Air/Bus/Train Terminal,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000016146,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016152,White,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000016159,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016166,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016176,White,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016182,White,Air/Bus/Train Terminal,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016187,Hispanic,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016194,Hispanic,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA00-0000016198,Group of Multiple Races,Field/Woods/Park,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016205,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016237,Unknown,School/college,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000016307,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016343,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000016439,Unknown,Specialty Store (TV/Fur/etc.),Anti-Gay (Male),Sexual Orientation
+CA00-0000016642,Unknown,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000016652,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016672,White,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000016819,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016916,Unknown,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016946,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000017188,Unknown,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000017199,Black or African American,Government/Public Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000017202,Black or African American,Liquor Store,Anti-Gay (Male),Sexual Orientation
+CA00-0000017269,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000017458,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017466,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017628,Black or African American,Restaurant,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000017631,Black or African American,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017680,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000017686,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000017720,White,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018059,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018084,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018198,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018252,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018399,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000018412,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000018740,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000018754,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018805,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018868,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000018880,Unknown,Other/Unknown,Anti-Jewish,Religion
+CA00-0000018896,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000019090,Unknown,Other/Unknown,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000019098,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000019102,Group of Multiple Races,Grocery/Supermarket,Anti-Lesbian,Sexual Orientation
+CA00-0000019106,White,Other/Unknown,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019110,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000019468,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000019482,Unknown,School/college,Anti-Catholic,Religion
+CA00-0000019565,Black or African American,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000019686,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019706,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000020300,White,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000020380,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000020403,Hispanic,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000020410,Hispanic,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000020527,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020746,Unknown,Commercial/Office Building,Anti-Transgender,Gender Nonconforming
+CA00-0000020806,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000021052,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021145,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021171,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021282,White,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021334,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021774,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000022098,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000022245,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000022434,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000023019,Black or African American,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA00-0000023324,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000023433,Unknown,Specialty Store (TV/Fur/etc.),Anti-Jewish,Religion
+CA00-0000023816,Unknown,Commercial/Office Building,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000023890,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000024023,Black or African American,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024220,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024257,Unknown,Restaurant,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000024366,Black or African American,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000024416,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024457,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024538,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000024748,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000025062,Black or African American,School-College/University,Anti-Gay (Male),Sexual Orientation
+CA00-0000025198,Black or African American,Highway/Road/Alley/Street,Anti-Islamic (Muslim),Religion
+CA00-0000025264,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025409,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025667,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA00-0000025767,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000025911,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000026205,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000026370,White,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000026609,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026658,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000026864,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000027136,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027288,White,Convenience Store,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000027789,Unknown,School-Elementary/Secondary,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000028127,White,Parking Lot/Garage,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000028272,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000028382,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000028541,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000028561,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000029044,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029390,Unknown,Government/Public Building,Anti-Jewish,Religion
+CA00-0000029562,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000029768,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000029978,White,Community Center,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000030425,Group of Multiple Races,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000030467,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000030931,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000031121,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000031374,White,Bar/Night Club,Anti-Transgender,Gender Nonconforming
+CA00-0000031606,White,Restaurant,Anti-Transgender,Gender Nonconforming
+CA00-0000032067,Unknown,Other/Unknown,Anti-Jewish,Religion
+CA00-0000032075,White,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000032085,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032095,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032102,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032489,Unknown,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000032492,Black or African American,Air/Bus/Train Terminal,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000032499,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000032506,Unknown,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000032575,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000033387,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033403,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033410,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033418,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000033421,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033432,Unknown,Residence/Home/Driveway,Anti-Islamic (Muslim),Religion
+CA00-0000033435,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000033686,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033829,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033836,Black or African American,Convenience Store,Anti-Transgender,Gender Nonconforming
+CA00-0000034103,White,Parking Lot/Garage,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034426,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034429,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000034550,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000034801,Asian,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000035162,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000035395,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000035576,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000035639,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000035745,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000035984,White,Government/Public Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036015,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036022,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036029,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036042,White,Specialty Store (TV/Fur/etc.),Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036065,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000036146,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000036294,White,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000036445,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036449,Unknown,School-College/University,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000036669,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001756,Asian/Pacific Islander,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001760,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001769,Unknown,School/college,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001773,Black or African American,Convenience Store,Anti-Transgender,Gender Nonconforming
+CA01-0000001782,Unknown,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA01-0000001791,Unknown,Specialty Store (TV/Fur/etc.),Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001795,Unknown,Specialty Store (TV/Fur/etc.),Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001800,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001804,Unknown,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001811,Unknown,Church/Synagogue/Temple,Anti-Islamic (Muslim),Religion
+CA01-0000001815,White,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA01-0000001826,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001844,Unknown,Grocery/Supermarket,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001848,White,Bar/Night Club,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA01-0000001852,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA01-0000001861,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001865,White,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001875,White,Residence/Home/Driveway,Anti-Jewish,Religion
+CA01-0000001879,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001892,White,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA01-0000001896,Unknown,School/college,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001899,Unknown,Commercial/Office Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA01-0000001903,Unknown,Government/Public Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA01-0000001907,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+220061145,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+220157603,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+220337219,Unknown,Community Center,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+220439912,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+220700202,White,Parking Lot/Garage,Anti-Gay (Male),Sexual Orientation
+230051528,Group of Multiple Ethnicities,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+230122715,White,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+230162868,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230294160,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+230448715,White,Church/Synagogue/Temple,Anti-Other Christian,Religion
+230562917,Unknown,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230726163,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+230739207,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+230772144,Unknown,Other/Unknown,Anti-Jewish,Religion
+230855110,Black or African American,Shopping Mall,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+240089688,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+240202056,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+240304210,White,Residence/Home/Driveway,Anti-Jewish,Religion
+240392447,Unknown,Other/Unknown,Anti-Jewish,Religion
+240509551,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+240605858,Unknown,School-Elementary/Secondary,Anti-Black or African American,Race/Ethnicity/Ancestry
+240736005,White,Park/Playground,Anti-Lesbian/Gay/Bisexual/Transgender,Sexual Orientation
+240782280,Unknown,Community Center,Anti-Jewish,Religion
+250245701,White,Community Center,Anti-Transgender,Gender Nonconforming
+250306911,White,Church/Synagogue/Temple,Anti-Jewish,Religion
+250370546,Black or African American,Other/Unknown,Anti-Asian,Race/Ethnicity/Ancestry
+250485612,White,Service/Gas Station,Anti-Jewish,Religion
+250656108,Unknown,School-Elementary/Secondary,Anti-Jewish,Religion
+CA00-0000011534,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000011657,Unknown,Commercial/Office Building,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000011662,Unknown,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000011749,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000011759,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000011981,East Indian,Service/Gas Station,Anti-Gay (Male),Sexual Orientation
+CA00-0000012161,White,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000012174,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012179,Black or African American,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000012313,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012455,White,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012472,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000012661,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012666,East Indian,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000012883,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012887,Black or African American,Lake/Waterway/Beach,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000012891,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000012921,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000012950,Hispanic,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012980,White,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000012997,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013002,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013006,Black or African American,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000013203,Unknown,Bar/Night Club,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013208,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013212,White,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000013218,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013234,White,Service/Gas Station,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013281,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000013290,Unknown,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000013294,Hispanic,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013477,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013481,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013495,Unknown,Specialty Store (TV/Fur/etc.),Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000013686,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000013728,East Indian/Asian Indian,Specialty Store (TV/Fur/etc.),Anti-Islamic (Muslim),Religion
+CA00-0000013732,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000013737,Hispanic,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000013879,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000013883,Black or African American,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000013888,Unknown,Government/Public Building,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000014057,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000014210,Unknown,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000014220,Hispanic,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000014232,Hispanic,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000014618,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000014630,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014639,Hispanic,Grocery/Supermarket,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000014660,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000014878,Unknown,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000015700,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000015712,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000015724,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000015799,Unknown,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000016121,Black or African American,Residence/Home/Driveway,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000016129,Asian/Pacific Islander,Convenience Store,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016142,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016150,White,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000016155,Unknown,School/college,Anti-Gay (Male),Sexual Orientation
+CA00-0000016162,Hispanic,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016169,Unknown,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016180,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016190,Hispanic,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000016201,Hispanic,Hotel/Motel/etc.,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016233,Black or African American,Air/Bus/Train Terminal,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000016270,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000016303,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016324,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016438,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000016641,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016651,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000016660,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000016680,White,School/college,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000016915,White,Bar/Night Club,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000016943,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000017187,White,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000017194,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000017205,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017273,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017473,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000017481,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017633,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000017689,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000017827,Unknown,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018062,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000018071,Black or African American,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000018087,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000018095,White,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000018389,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000018401,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000018417,Unknown,Residence/Home/Driveway,Anti-Lesbian,Sexual Orientation
+CA00-0000018748,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000018895,White,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000018905,Hispanic,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000019094,East Indian/Asian Indian,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000019105,White,Parking Lot/Garage,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000019197,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000019478,Black or African American,Convenience Store,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000019485,Hispanic,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000019570,Black or African American,Field/Woods/Park,Anti-Gay (Male),Sexual Orientation
+CA00-0000019690,Unknown,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020296,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020388,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000020406,Unknown,Field/Woods/Park,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000020519,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000020613,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021048,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000021141,Black or African American,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000021161,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000021166,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000021174,Unknown,School/college,Anti-Jewish,Religion
+CA00-0000021285,Unknown,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000021502,Unknown,Commercial/Office Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000021691,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000021915,Group of Multiple Races,Residence/Home/Driveway,Anti-Transgender,Gender Nonconforming
+CA00-0000022126,White,Service/Gas Station,Anti-Gay (Male),Sexual Orientation
+CA00-0000022261,White,Restaurant,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022264,Hispanic,Church/Synagogue/Temple,Anti-Transgender,Gender Nonconforming
+CA00-0000022268,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022428,White,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA00-0000022433,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000022783,Hispanic,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000022992,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000023432,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000023821,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000023895,White,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000024117,Unknown,Commercial/Office Building,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000024224,White,Residence/Home/Driveway,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000024256,Black or African American,Air/Bus/Train Terminal,Anti-Gay (Male),Sexual Orientation
+CA00-0000024415,Asian/Pacific Islander,Highway/Road/Alley/Street,Anti-Arab,Race/Ethnicity/Ancestry
+CA00-0000024492,White,Restaurant,Anti-Gay (Male),Sexual Orientation
+CA00-0000024643,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000024918,Unknown,Church/Synagogue/Temple,Anti-Multiple Religions (Group),Religion
+CA00-0000025111,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025340,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000025535,Asian/Pacific Islander,Air/Bus/Train Terminal,Anti-Lesbian,Sexual Orientation
+CA00-0000025615,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000025845,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000026047,White,Highway/Road/Alley/Street,Anti-Lesbian/Gay/Bisexual or Transgender (Mixed Group),Sexual Orientation
+CA00-0000026204,Hispanic,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000026445,White,Hotel/Motel/etc.,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000026719,Black or African American,Hotel/Motel/etc.,Anti-Transgender,Gender Nonconforming
+CA00-0000026821,White,Park/Playground,Anti-Gay (Male),Sexual Orientation
+CA00-0000027091,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000027094,White,Bar/Night Club,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000027233,Black or African American,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000027468,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000027721,White,Highway/Road/Alley/Street,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000028026,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000028557,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA00-0000028594,Black or African American,Highway/Road/Alley/Street,Anti-Transgender,Gender Nonconforming
+CA00-0000028672,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000028817,Unknown,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000028875,White,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000028883,Black or African American,Bar/Night Club,Anti-Transgender,Gender Nonconforming
+CA00-0000029062,Black or African American,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000029509,Asian,Convenience Store,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000029559,Unknown,Highway/Road/Alley/Street,Anti-Jewish,Religion
+CA00-0000029670,Black or African American,Bar/Night Club,Anti-Gay (Male),Sexual Orientation
+CA00-0000029795,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000029799,Black or African American,Highway/Road/Alley/Street,Anti-Lesbian,Sexual Orientation
+CA00-0000030007,White,Park/Playground,Anti-Gay (Male),Sexual Orientation
+CA00-0000030428,Unknown,Church/Synagogue/Temple,Anti-Other Religion,Religion
+CA00-0000030497,Unknown,Commercial/Office Building,Anti-Jewish,Religion
+CA00-0000030574,White,Park/Playground,Anti-Islamic (Muslim),Religion
+CA00-0000030663,Unknown,Church/Synagogue/Temple,Anti-Catholic,Religion
+CA00-0000031124,Black or African American,Residence/Home/Driveway,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000031594,Unknown,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000031597,White,Residence/Home/Driveway,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000031602,White,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000031644,Asian,Other/Unknown,Anti-Gay (Male),Sexual Orientation
+CA00-0000032071,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000032078,Asian,Grocery/Supermarket,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000032081,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA00-0000032088,White,Convenience Store,Anti-Citizenship Status,Race/Ethnicity/Ancestry
+CA00-0000032098,White,Convenience Store,Anti-Gay (Male),Sexual Orientation
+CA00-0000032105,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000032495,White,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032502,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000032509,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000032669,White,Restaurant,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033390,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033393,Unknown,Restaurant,Anti-Jewish,Religion
+CA00-0000033396,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033399,Asian,Residence/Home/Driveway,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033406,Unknown,Park/Playground,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033413,Black or African American,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000033424,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000033428,Unknown,Highway/Road/Alley/Street,Anti-Multiple Races (Group),Race/Ethnicity/Ancestry
+CA00-0000033438,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000033441,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000033832,Black or African American,Highway/Road/Alley/Street,Anti-White,Race/Ethnicity/Ancestry
+CA00-0000033856,White,Air/Bus/Train Terminal,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000034230,White,Shelter-Mission/Homeless,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000034546,Asian,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000034797,Black or African American,Highway/Road/Alley/Street,Anti-Hispanic or Latino,Race/Ethnicity/Ancestry
+CA00-0000034804,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000034807,Asian,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035165,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000035403,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035494,Unknown,Liquor Store,Anti-Jewish,Religion
+CA00-0000035635,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035708,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000035796,White,Highway/Road/Alley/Street,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000035987,Unknown,Parking Lot/Garage,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA00-0000036018,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036025,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036033,White,Commercial/Office Building,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036037,White,Restaurant,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036047,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA00-0000036064,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA00-0000036207,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036216,Black or African American,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA00-0000036220,Group of Multiple Races,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001751,Unknown,Government/Public Building,Anti-Black or African American,Race/Ethnicity/Ancestry
+CA01-0000001755,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001764,White,Residence/Home/Driveway,Anti-Gay (Male),Sexual Orientation
+CA01-0000001768,Unknown,Church/Synagogue/Temple,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001777,White,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA01-0000001786,Unknown,Commercial/Office Building,Anti-Gay (Male),Sexual Orientation
+CA01-0000001790,White,Highway/Road/Alley/Street,Anti-Asian,Race/Ethnicity/Ancestry
+CA01-0000001807,Unknown,Service/Gas Station,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001818,Unknown,Air/Bus/Train Terminal,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001822,Black or African American,Air/Bus/Train Terminal,Anti-White,Race/Ethnicity/Ancestry
+CA01-0000001829,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001833,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001837,White,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001840,Unknown,Specialty Store (TV/Fur/etc.),Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001856,Unknown,Residence/Home/Driveway,Anti-Jewish,Religion
+CA01-0000001860,Unknown,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001869,White,Service/Gas Station,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001874,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry
+CA01-0000001883,Unknown,Church/Synagogue/Temple,Anti-Jewish,Religion
+CA01-0000001887,Unknown,Parking Lot/Garage,Anti-Jewish,Religion
+CA01-0000001891,Black or African American,Highway/Road/Alley/Street,Anti-Gay (Male),Sexual Orientation
+CA01-0000001911,Unknown,Residence/Home/Driveway,Anti-Other Race/Ethnicity/Ancestry,Race/Ethnicity/Ancestry

@@ -1,0 +1,10 @@
+# don't add virtual environment
+.venv/ 
+# macOS
+.DS_Store
+# windows
+Thumbs.db
+Desktop.ini
+# python
+__pycache__/
+*.pyc
