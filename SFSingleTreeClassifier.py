@@ -10,6 +10,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
+# Visualization
+from sklearn import tree
+import matplotlib.pyplot as plt
+
 DATA_PATH = "Data/SF_merged_data_multihot.csv"
 RANDOM_STATE = 42 # Hitchhiker's guide to the galaxy. Used for train test split
 
@@ -110,6 +114,22 @@ clf = DecisionTreeClassifier(
 
 clf.fit(X_train, y_train)
 
+# Plot only the top few levels so it’s readable
+plt.figure(figsize=(28, 14))
+tree.plot_tree(
+    clf,
+    feature_names=X_cols,     # feature column names
+    class_names=clf.classes_, # class labels
+    filled=True,
+    rounded=True,
+    max_depth=3,              # show only top 3 levels
+    fontsize=8
+)
+
+plt.tight_layout()
+plt.savefig("decision_tree_top3.png", dpi=300)
+plt.show()
+print("Saved decision_tree_top3.png")
 
 
 # Evaluate
