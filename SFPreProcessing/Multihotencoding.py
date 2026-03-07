@@ -36,22 +36,22 @@ IGNORE_LABELS = set([
 # Helpers
 
 def sanitize_for_colname(s: str) -> str:
-    # Turn a label into a safe column suffix.
-    # Example: "Race/Ethnicity/Ancestry" -> "race_ethnicity_ancestry"
+    # Turn a label into a safe column suffix
+    # For example, "Race/Ethnicity/Ancestry" -> "race_ethnicity_ancestry"
     s = s.strip().lower()
     s = re.sub(r"[^a-z0-9]+", "_", s)
     s = re.sub(r"_+", "_", s).strip("_")
     return s
 
 def protect_or_phrases(text: str) -> str:
-    # Replace ' or ' inside protected phrases with a placeholder so it won't split.
+    # Replace "or" inside protected phrases with a placeholder so it won't split
     if not PROTECT_OR_PHRASES:
         return text
     placeholder = "__OR__"
     out = text
     for phrase in PROTECTED_PHRASES:
-        # Replace the exact phrase's " or " with placeholder version
-        # e.g. "Black or African American" -> "Black__OR__African American"
+        # Replace the exact phrase's "or" with placeholder version
+        # For example "Black or African American" -> "Black__OR__African American"
         protected_version = phrase.replace(" or ", f" {placeholder} ")
         out = out.replace(phrase, protected_version)
     return out
@@ -86,8 +86,9 @@ def split_cell(value, delim: str) -> list[str]:
         # Protect phrases like "Black or African American" if enabled
         s2 = protect_or_phrases(s)
 
-        # Split on the word "or" as a separator: " A or B " -> ["A", "B"]
-        # This uses spaces around or so it doesn't split "Organization" etc.
+        # Split on the word "or" as a separator
+        # For example, " A or B " -> ["A", "B"]
+        # This uses spaces around or so it doesn't split "Organization"
         parts = re.split(r"\s+or\s+", s2)
 
         for p in parts:
@@ -97,10 +98,10 @@ def split_cell(value, delim: str) -> list[str]:
                 tokens.append(t)
 
     else:
-        # Fallback: no split
+        # Fallback, no split
         tokens = [s]
 
-    # Remove ignored labels (optional)
+    # Remove ignored labels
     cleaned = []
     for t in tokens:
         if t is None:

@@ -1,5 +1,5 @@
 """
-Single tree output that predicts the combinations of the possible bias types because it's multihotencoded.
+Single tree output that predicts the combinations of the possible bias types because it's multi-hot encoded.
 For example, you can have a bias type of both race and religion. This would combine it into one output category or one Y value.
 This is called a label powerset.
 """
@@ -40,7 +40,7 @@ for c in location_cols:
 
 X = dataframe[X_cols].copy()
 
-# Target/Output columns (Y): bias type label powerset of multihot encoded columns
+# Target/Output columns (Y): bias type label powerset of multi-hot encoded columns
 y_cols = []
 for col_name in dataframe.columns:
     if col_name.startswith("MostSeriousBiasType__"):
@@ -48,7 +48,7 @@ for col_name in dataframe.columns:
 
 Y = dataframe[y_cols].copy()
 
-# Convert multihot encoded Y into a single multiclass label per row
+# Convert multi-hot encoded Y into a single multi-class label per row
 labels = [] # stores final single label targets for each row
 
 # Loop through 

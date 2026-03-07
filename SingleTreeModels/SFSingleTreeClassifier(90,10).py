@@ -1,5 +1,5 @@
 """
-Single tree output that predicts the combinations of the possible bias types because it's multihotencoded.
+Single tree output that predicts the combinations of the possible bias types because it's multi-hot encoded.
 For example, you can have a bias type of both race and religion. This would combine it into one output category or one Y value.
 This is called a label powerset.
 """
@@ -48,7 +48,7 @@ for col_name in dataframe.columns:
 
 Y = dataframe[y_cols].copy()
 
-# Convert multihot encoded Y into a single multiclass label per row
+# Convert multi-hot encoded Y into a single multi-class label per row
 labels = [] # stores final single label targets for each row
 
 # Loop through 
@@ -118,7 +118,7 @@ clf.fit(X_train, y_train)
 print("Tree depth learned:", clf.get_depth())
 print("Number of leaves:", clf.get_n_leaves())
 
-
+"""
 # Plot only the top few levels so it’s readable
 plt.figure(figsize = (28, 14))
 tree.plot_tree(
@@ -136,7 +136,7 @@ plt.tight_layout()
 plt.savefig("decision_tree_top5(90,10).png", dpi = 300)
 plt.show()
 print("Saved decision_tree_top3.png")
-
+"""
 
 
 # Evaluate
