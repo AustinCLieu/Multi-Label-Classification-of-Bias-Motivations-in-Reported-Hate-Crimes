@@ -24,7 +24,7 @@ race_cols = []
 location_cols = []
 for col_name in dataframe.columns:
     # Keep columns like "SuspectsRaceASAGroup_white", etc
-    if col_name.startswith("SuspectsRaceASAGroup__"):
+    if col_name.startswith("SuspectsRaceAsAGroup__"):
         race_cols.append(col_name)
 
 for col_name in dataframe.columns:
@@ -79,8 +79,8 @@ for i in range(len(y_label)):
 
 mask = pd.Series(keep_rows)
 
-X = X[mask].reset_index(drop=True)
-y_label = y_label[mask].reset_index(drop=True)
+X = X[mask].reset_index(drop = True)
+y_label = y_label[mask].reset_index(drop = True)
 
 print("X shape:", X.shape)
 print("Number of classes:", y_label.nunique())
@@ -91,45 +91,48 @@ try:
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y_label,
-        test_size=0.2,
-        random_state=RANDOM_STATE,
-        stratify=y_label
+        test_size = 0.2,
+        random_state = RANDOM_STATE,
+        stratify = y_label
     )
 except ValueError:
     # fallback: no stratification
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y_label,
-        test_size=0.2,
-        random_state=RANDOM_STATE
+        test_size = 0.2,
+        random_state = RANDOM_STATE
     )
 
 # Train one decision tree
 clf = DecisionTreeClassifier(
-    max_depth=12,
-    min_samples_leaf=5,
-    random_state=RANDOM_STATE,
-    class_weight="balanced"
+    max_depth = 12,
+    min_samples_leaf = 5,
+    random_state = RANDOM_STATE,
+    class_weight = "balanced"
 )
 
 clf.fit(X_train, y_train)
 
+"""
 # Plot only the top few levels so it’s readable
-plt.figure(figsize=(28, 14))
+plt.figure(figsize = (28, 14))
 tree.plot_tree(
     clf,
-    feature_names=X_cols,     # feature column names
-    class_names=clf.classes_, # class labels
-    filled=True,
-    rounded=True,
-    max_depth=3,              # show only top 3 levels
-    fontsize=8
+    feature_names = X_cols,     # feature column names
+    class_names = clf.classes_, # class labels
+    filled = True,
+    rounded = True,
+    # max_depth = 3,              # show only top 3 levels
+    max_depth = 5,
+    fontsize = 8
 )
 
 plt.tight_layout()
-plt.savefig("decision_tree_top3.png", dpi=300)
+plt.savefig("decision_tree_top5.png", dpi = 300)
 plt.show()
 print("Saved decision_tree_top3.png")
+"""
 
 
 # Evaluate
