@@ -34,7 +34,7 @@ for c in race_cols:
 for c in location_cols:
     X_cols.append(c)
 
-X = dataframe[X_cols].copy
+X = dataframe[X_cols].copy()
 
 # Target/Output columns (Y): bias type label powerset of multihot encoded columns
 y_cols = []
@@ -109,6 +109,8 @@ clf = DecisionTreeClassifier(
 )
 
 clf.fit(X_train, y_train)
+
+
 
 # Evaluate
 y_pred = clf.predict(X_test)
