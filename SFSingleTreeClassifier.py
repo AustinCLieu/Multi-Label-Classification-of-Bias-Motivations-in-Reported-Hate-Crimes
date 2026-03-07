@@ -114,6 +114,9 @@ clf = DecisionTreeClassifier(
 
 clf.fit(X_train, y_train)
 
+print("Tree depth learned:", clf.get_depth())
+print("Number of leaves:", clf.get_n_leaves())
+
 """
 # Plot only the top few levels so it’s readable
 plt.figure(figsize = (28, 14))
