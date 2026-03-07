@@ -91,8 +91,10 @@ try:
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y_label,
-        test_size = 0.2,
+        test_size = 0.1,
         random_state = RANDOM_STATE,
+        # We use stratificaiton because there is an unproportional amount of output categories and we don't want to entirely miss any or
+        # give bad proportion to cases in the training and test set.
         stratify = y_label
     )
 except ValueError:
@@ -100,7 +102,7 @@ except ValueError:
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y_label,
-        test_size = 0.2,
+        test_size = 0.1,
         random_state = RANDOM_STATE
     )
 
@@ -111,13 +113,12 @@ clf = DecisionTreeClassifier(
     random_state = RANDOM_STATE,
     class_weight = "balanced"
 )
-
 clf.fit(X_train, y_train)
 
 print("Tree depth learned:", clf.get_depth())
 print("Number of leaves:", clf.get_n_leaves())
 
-"""
+
 # Plot only the top few levels so it’s readable
 plt.figure(figsize = (28, 14))
 tree.plot_tree(
@@ -127,15 +128,15 @@ tree.plot_tree(
     filled = True,
     rounded = True,
     # max_depth = 3,              # show only top 3 levels
-    max_depth = 5,
+    max_depth = 4,
     fontsize = 8
 )
 
 plt.tight_layout()
-plt.savefig("decision_tree_top5.png", dpi = 300)
+plt.savefig("decision_tree_top5(90,10).png", dpi = 300)
 plt.show()
 print("Saved decision_tree_top3.png")
-"""
+
 
 
 # Evaluate
