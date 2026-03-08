@@ -246,7 +246,6 @@ def build_multihot_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
     return out
 
-
 def main():
     # Step 1: preprocess + merge
     merged_df = build_merged_dataframe(SF1_PATH, SF2_PATH)
@@ -254,6 +253,11 @@ def main():
 
     # Step 2: multi-hot encode
     multihot_df = build_multihot_dataframe(merged_df)
+
+    print("Number of columns/features in multihot_df:", multihot_df.shape[1])
+    print("Column names:")
+    print(list(multihot_df.columns))
+
     multihot_df.to_csv(MULTIHOT_OUTPUT, index=False)
 
     print("Saved merged file:", MERGED_OUTPUT, merged_df.shape)
