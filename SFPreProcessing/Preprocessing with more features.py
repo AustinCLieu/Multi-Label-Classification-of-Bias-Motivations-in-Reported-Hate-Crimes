@@ -1,22 +1,13 @@
 import re
 import pandas as pd
 
-# ----------------------------
-# INPUT FILES
-# ----------------------------
 SF1_PATH = "Data/SFdata.govdata.csv"
 SF2_PATH = "Data/SFgov.orgdata.csv"
 
-# ----------------------------
-# OUTPUT FILES
-# ----------------------------
 MERGED_OUTPUT = "SF_merged_data_with_month_ucr.csv"
 MULTIHOT_OUTPUT = "SF_merged_data_multihot_with_month_ucr.csv"
 
-# ----------------------------
-# FINAL COLUMN ORDER
-# same as old merged output, but with MonthOccurrence and MostSeriousUCR included
-# ----------------------------
+# Columns
 CANONICAL_COLUMNS = [
     "RecordID",
     "MonthOccurrence",
@@ -27,9 +18,7 @@ CANONICAL_COLUMNS = [
     "MostSeriousBiasType",
 ]
 
-# ----------------------------
-# RENAME MAPS
-# ----------------------------
+# Maps to rename features
 SF1_RENAME_MAP = {
     "record_id": "RecordID",
     "occurence_month": "MonthOccurrence",
@@ -50,9 +39,7 @@ SF2_RENAME_MAP = {
     "MostSeriousBiasType": "MostSeriousBiasType",
 }
 
-# ----------------------------
-# LABEL HANDLING
-# ----------------------------
+# Labels to ignore
 IGNORE_LABELS = {"", "Nan", "None", "nan", "none"}
 
 # protect phrases that contain "or" so they do not get split incorrectly
