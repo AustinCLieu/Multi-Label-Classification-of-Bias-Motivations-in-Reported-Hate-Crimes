@@ -8,7 +8,7 @@ import seaborn as sns
 import numpy as np
 
 # ── Load data ────────────────────────────────────────────────────────────────
-df = pd.read_csv('CA_multihot_seasons.csv')
+df = pd.read_csv('Data/CA_multihot_seasons.csv')
 
 # ── Define feature groups to INCLUDE ────────────────────────────────────────
 feature_prefixes = [
@@ -37,7 +37,7 @@ print(f"\nTarget class distribution:\n{y.value_counts()}\n")
 
 # ── Train / test split ───────────────────────────────────────────────────────
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42, stratify=y
+    X, y, test_size=0.1, random_state=42, stratify=y
 )
 
 # ── Logistic Regression with L2 regularization ───────────────────────────────
@@ -46,7 +46,7 @@ model = LogisticRegression(
     penalty='l2',         # L2 (Ridge) regularization
     C=1.0,                # regularization strength (tune as needed)
     solver='lbfgs',       # efficient for multiclass
-    multi_class='auto',
+    #multi_class='auto',
     max_iter=1000,
     random_state=42
 )

@@ -43,12 +43,13 @@ X_train, X_test, y_train, y_test = train_test_split(
 # ── Logistic Regression with L2 regularization ───────────────────────────────
 # C = inverse regularization strength (smaller C = stronger regularization)
 model = LogisticRegression(
-    penalty=None,         # L2 (Ridge) regularization
-    #C=1.0,                # regularization strength (tune as needed)
+    penalty='l2',         # L2 (Ridge) regularization
+    C=1.0,                # regularization strength (tune as needed)
     solver='lbfgs',       # efficient for multiclass
     #multi_class='auto',
     max_iter=1000,
-    random_state=42
+    random_state=42,
+    class_weight='balanced'
 )
 
 model.fit(X_train, y_train)
