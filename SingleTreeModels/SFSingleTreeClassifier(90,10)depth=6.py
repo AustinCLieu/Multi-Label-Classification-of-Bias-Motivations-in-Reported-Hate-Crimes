@@ -108,7 +108,7 @@ except ValueError:
 
 # Train one decision tree
 clf = DecisionTreeClassifier(
-    max_depth = 12,
+    max_depth = 6,
     min_samples_leaf = 5,
     random_state = RANDOM_STATE,
     class_weight = "balanced"
